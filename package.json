@@ -1,22 +1,22 @@
 {
   "name": "jira-issue-key-checker",
   "version": "1.6.0",
-  "description": "Checks If a PR contains the linked Jira issue key in both the title and the description.",
+  "description": "Checks If a PR contains the linked Jira issue key in the title.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fgiuliani/jira-issue-key-checker.git"
+    "url": "git+https://github.com/fringeus/jira-issue-key-checker.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fgiuliani/jira-issue-key-checker/issues"
+    "url": "https://github.com/fringeus/jira-issue-key-checker/issues"
   },
-  "homepage": "https://github.com/fgiuliani/jira-issue-key-checker#readme",
+  "homepage": "https://github.com/fringeus/jira-issue-key-checker#readme",
   "dependencies": {
     "@actions/core": "^1.1.1",
     "@actions/github": "^4.0.0"
