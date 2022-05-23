@@ -1,5 +1,5 @@
 name: "Jira Issue Key Checker"
-description: "Checks If a PR contains its linked Jira issue key in both the title and the description."
+description: "Checks If a PR contains its linked Jira issue key in the title."
 branding:
   icon: "tag"
   color: "purple"
