@@ -1,6 +1,6 @@
 {
   "name": "jira-issue-key-checker",
-  "version": "1.6.0",
+  "version": "1.7.0",
   "description": "Checks If a PR contains the linked Jira issue key in the title.",
   "main": "index.js",
   "scripts": {
