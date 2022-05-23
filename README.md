@@ -1,6 +1,6 @@
 # Jira Issue Key Checker - GitHub Action
 
-Checks If a PR contains its linked Jira issue key in both the title and the description.
+Checks If a PR contains its linked Jira issue key in the title.
 
 ## Inputs
 
